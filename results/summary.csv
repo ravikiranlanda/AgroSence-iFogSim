@@ -1,0 +1,3 @@
+"log_file","execution_time_ms","total_energy","cost_of_execution","total_network_usage"
+"agrosence_cloud.log","1184","5853333.5397","833652.1200000313","338948.4"
+"agrosence_fog.log","1255","5331859.9482","94335.40000000101","34428.0"
